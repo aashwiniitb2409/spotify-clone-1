@@ -1,10 +1,8 @@
 
 
-# Spotify - Music Playing App
+# Spotify - Clone
 
-**Project Link** - ***https://alanbinu-spotify.web.app/***
-
-## Tech We Used
+## Tech Used
 
 - ReactJs
 - Firebase Hosting
